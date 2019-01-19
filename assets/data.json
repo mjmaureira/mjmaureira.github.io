@@ -1,0 +1,134 @@
+{
+  "color": "#712819",
+  "permalinks": true,
+  "google_analytics_ID": "UA-54037920-3",
+  "name": "María José Maureira",
+  "sub_title": "Postdoctorade at Max Planck Institute for Extraterrestrial Physics",
+  "cv_link": "assets/cv_maureira_2017.pdf",
+  "tabs": [
+    "home",
+    "research",
+    "teaching"
+  ],
+  "home": {
+    "description": "I am an Astronomy postdoctorade at Max Planck Institute for Extraterrestrial Physics. My work focuses on the early stages of low-mass star formation. I use data from millimeter interferometers to characterize the gas in collapsing cores that are forming or have recently formed a protostar.",
+    "contact": [
+      {"text": "Max Planck Institute for Extraterrestrial Physics"},
+      {"text": "Gießenbachstraße 1"},
+      {"text": "85748 Garching, Munich, Germany"},
+      {"text": "maureira@mpe.mpg.de", "type": "email"}
+    ],
+      "fields": [
+      "Star Formation",
+      "Radio Astronomy"
+    ]
+  },
+  "research_expanded": {
+    "gt_sm": true
+  },
+  "research": [
+    {
+      "title": "Background",
+      "papers": [
+        {
+          "abstract": "Simulations of low-mass core collapse predict the formation of an object that reaches quasi-hydrostatic equilibrium at the center of the dense core before the formation of a protostar (Larson et al. 1969; Tomida et al. 2013,2015; Bate et al. 2014). This object is called the First Hydrostatic Core (FHSC). FHSC are predicted to be thermally supported and flattened structures with a size of a few AU, a mass of a few 0.01-0.1 Msun and a lifetime of ~1,000 to ~10,000 years. A number of candidates have been identified based on a weak or non continuum emission at wavelengths < 24 um and evidence of a small outflow. Despite the unknown true evolutionary state of these sources (first cores or very young low-luminosity protostars), their observational characteristics make them an ideal target for studying the earliest stages of core collapse collapse and protostar formation as well as to test current models of protostar formation."
+        }
+      ]
+    },
+    {
+      "title": "Publications",
+      "papers": [
+        {
+          "title": "A turbulent origin for the complex envelope kinematics in the young low-mass core Per-Bolo 58",
+          "authors": ["Maureira, Maria Jose  et al."],
+          "abstract": "We use CARMA 3mm continuum and molecular lines at 1000 au resolution to characterize the structure and kinematics of the envelope surrounding the deeply embedded first core candidate Per-Bolo 58. The line profile of the observed species shows two distinct peaks separated by 0.4-0.6 km/s, most likely arise from two different optically thin velocity components rather than the product of self-absorption in an optically thick line. The two velocity components, each with a mass of 0.5-0.6 Msun, overlap spatially at the position of the continuum emission. We investigate whether these observations are consistent with infall in a turbulent and magnetized envelope. We compare the morphology and spectra of the N2H+(1-0) with synthetic observations of an MHD simulation that considers the collapse of an isolated core that is initially perturbed with a turbulent field. The proposed model matches the data in the production of two velocity components, traced by the isolated hyperfine line of the N2H+(1-0) spectra and shows a general agreement in morphology and velocity field. We also use large maps of the region to compare the kinematics of the core with that of the surrounding large-scale filamentary structure and find that accretion from the large scale-filament could also explain the complex kinematics exhibited by this young dense core.",
+          "images": [
+            "assets/images/fig2-1.png",
+            "assets/images/fig2-2.png",
+            "assets/images/fig2-3.png"
+          ]
+        },
+        {
+          "title": "Kinematics of a young low-mass star forming core: Understanding the evolutionary state of the First Core Candidate L1451-mm",
+          "authors": ["Maureira, Maria Jose  et al."],
+          "link": "http://adsabs.harvard.edu/abs/2017ApJ...838...60M",
+          "abstract": "We use 3mm multi-line and continuum CARMA observations towards the first FHSC candidate L1451-mm to characterize the envelope kinematics at 1000 AU scales and investigate its evolutionary state. We detect evidence of infall and rotation in the NH2D, N2H+ and HCN molecular lines. Our data is consistent with an envelope that is both infalling and rotating while conserving angular momentum around a central mass of about 0.06 Msun. We estimated a a mass infall rate of approximately 6e-6 Msun/yr, implying a young age of 1e4 years. Assuming that the accretion onto the central object is the same as the infall rate we obtain that the minimum source size is 1.5-5 AU —consistent with the size expected for a first core. We conclude that L1451-mm is indeed at a very early stage of evolution, either a first core or an extremely young Class 0 protostar. Our results provide strong evidence that L1451-mm is the best candidate for being a bonafide first core.",
+          "images": [
+            "assets/images/fig1-1.png",
+            "assets/images/fig1-2.png"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Current work",
+      "papers": [
+        {
+          "abstract": "We are working with ALMA 3mm continuum and molecular lines at ∼800 AU resolution to study other first core candidates. In the Figure below I show some of the molecular lines for the candidate Per-bol 45. This candidate does not have a detected outflow yet, but the HCO+(1-0) molecular line suggests that this source is indeed launching an outflow. In addition, the high-density tracers N2H+ and NH2D concentrate close to the continuum emission which is evidence for this source young evolutionary state.",
+          "images": [
+            "assets/images/fig3-1.png",
+            "assets/images/fig3-2.png",
+            "assets/images/fig3-3.png"
+          ]
+        }
+      ]
+    }
+  ],
+  "teaching": [
+    {
+      "name": "Yale University",
+      "courses": [
+        {
+          "name": "Frontiers and Controversies in Astrophysics",
+          "charge": "Teaching assistant",
+          "semester": "Spring 2016"
+        },
+        {
+          "name": "Archeoastronomy",
+          "charge": "Teaching assistant",
+          "semester": "Spring 2014"
+        },
+        {
+          "name": "Planets and Stars",
+          "charge": "Teaching assistant",
+          "semester": "Fall 2014"
+        }
+      ]
+    },
+    {
+      "name": "Universidad Andrés Bello",
+      "courses": [
+        {
+          "name": "Fundamental Physics",
+          "charge": "Lecturer",
+          "semester": "Spring 2010"
+        }
+      ]
+    },
+    {
+      "name": "Universidad de Chile",
+      "courses": [
+        {
+          "name": "Observational Astronomy",
+          "charge": "Teaching assistant",
+          "semester": "Fall 2010"
+        },
+        {
+          "name": "Newtonian Physics",
+          "charge": "Teaching assistant",
+          "semester": "Fall 2010-2009-2008"
+        },
+        {
+          "name": "Astronomy summer school for high school students",
+          "charge": "Teaching assistant",
+          "semester": "Spring 2009"
+        },
+        {
+          "name": "Thermodynamics",
+          "charge": "Teaching assistant",
+          "semester": "Spring 2008"
+        }
+      ]
+    }
+  ]
+}
