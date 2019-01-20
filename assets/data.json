@@ -11,11 +11,11 @@
     "teaching"
   ],
   "home": {
-    "description": "I am an Astronomy postdoctorade at Max Planck Institute for Extraterrestrial Physics. My work focuses on the early stages of low-mass star formation. I use data from millimeter interferometers to characterize the gas in collapsing cores that are forming or have recently formed a protostar.",
+    "description": "I am an astronomy postdoctorade at Max Planck Institute for Extraterrestrial Physics. My work focuses on the early stages of low-mass star formation. I use data from millimeter interferometers to characterize the gas in collapsing cores that are forming or have recently formed a protostar.",
     "contact": [
       {"text": "Max Planck Institute for Extraterrestrial Physics"},
       {"text": "Gießenbachstraße 1"},
-      {"text": "85748 Garching, Munich, Germany"},
+      {"text": "85748 Garching bei München, Germany"},
       {"text": "maureira@mpe.mpg.de", "type": "email"}
     ],
       "fields": [
