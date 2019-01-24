@@ -5,6 +5,8 @@
   "name": "María José Maureira",
   "sub_title": "Postdoctorade at Max Planck Institute for Extraterrestrial Physics",
   "cv_link": "assets/cv_maureira_2017.pdf",
+  "header_background": "assets/images/guisard-alma.jpg",
+  "header_background_mobile": "assets/images/guisard-alma_mobile.jpg",
   "tabs": [
     "home",
     "research",
