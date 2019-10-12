@@ -1,6 +1,5 @@
 {
   "color": "#712819",
-  "permalinks": true,
   "google_analytics_ID": "UA-54037920-3",
   "name": "María José Maureira",
   "sub_title": "Postdoctorade at Max Planck Institute for Extraterrestrial Physics",
@@ -25,14 +24,12 @@
       "Radio Astronomy"
     ]
   },
-  "research_expanded": {
-    "gt_sm": true
-  },
   "research": [
     {
       "title": "Background",
       "papers": [
         {
+          "always_expanded": true,
           "abstract": "Simulations of low-mass core collapse predict the formation of an object that reaches quasi-hydrostatic equilibrium at the center of the dense core before the formation of a protostar (Larson et al. 1969; Tomida et al. 2013,2015; Bate et al. 2014). This object is called the First Hydrostatic Core (FHSC). FHSC are predicted to be thermally supported and flattened structures with a size of a few AU, a mass of a few 0.01-0.1 Msun and a lifetime of ~1,000 to ~10,000 years. A number of candidates have been identified based on a weak or non continuum emission at wavelengths < 24 um and evidence of a small outflow. Despite the unknown true evolutionary state of these sources (first cores or very young low-luminosity protostars), their observational characteristics make them an ideal target for studying the earliest stages of core collapse collapse and protostar formation as well as to test current models of protostar formation."
         }
       ]
