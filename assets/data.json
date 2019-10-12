@@ -59,19 +59,6 @@
           ]
         }
       ]
-    },
-    {
-      "title": "Current work",
-      "papers": [
-        {
-          "abstract": "We are working with ALMA 3mm continuum and molecular lines at ∼800 AU resolution to study other first core candidates. In the Figure below I show some of the molecular lines for the candidate Per-bol 45. This candidate does not have a detected outflow yet, but the HCO+(1-0) molecular line suggests that this source is indeed launching an outflow. In addition, the high-density tracers N2H+ and NH2D concentrate close to the continuum emission which is evidence for this source young evolutionary state.",
-          "images": [
-            "assets/images/fig3-1.png",
-            "assets/images/fig3-2.png",
-            "assets/images/fig3-3.png"
-          ]
-        }
-      ]
     }
   ],
   "teaching": [
