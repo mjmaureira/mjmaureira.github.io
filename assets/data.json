@@ -63,57 +63,90 @@
   ],
   "teaching": [
     {
-      "name": "Yale University",
-      "courses": [
+      "title": "Yale University",
+      "items": [
         {
-          "name": "Frontiers and Controversies in Astrophysics",
-          "charge": "Teaching assistant",
-          "semester": "Spring 2016"
+          "date": "Spring 2016",
+          "text": "Frontiers and Controversies in Astrophysics",
+          "fields": [
+            {
+              "text": "Teaching assistant"
+            }
+          ]
         },
         {
-          "name": "Archeoastronomy",
-          "charge": "Teaching assistant",
-          "semester": "Spring 2014"
+          "date": "Spring 2014",
+          "text": "Archeoastronomy",
+          "fields": [
+            {
+              "text": "Teaching assistant"
+            }
+          ]
         },
         {
-          "name": "Planets and Stars",
-          "charge": "Teaching assistant",
-          "semester": "Fall 2014"
+          "date": "Fall 2014",
+          "text": "Planets and Stars",
+          "fields": [
+            {
+              "text": "Teaching assistant"
+            }
+          ]
         }
       ]
     },
     {
-      "name": "Universidad Andrés Bello",
-      "courses": [
+      "title": "Universidad Andrés Bello",
+      "items": [
         {
-          "name": "Fundamental Physics",
-          "charge": "Lecturer",
-          "semester": "Spring 2010"
+          "date": "Spring 2010",
+          "text": "Fundamental Physics",
+          "fields": [
+            {
+              "text": "Lecturer",
+              "highlighted": true
+            }
+          ]
         }
       ]
     },
     {
-      "name": "Universidad de Chile",
-      "courses": [
+      "title": "Universidad de Chile",
+      "items": [
         {
-          "name": "Observational Astronomy",
-          "charge": "Teaching assistant",
-          "semester": "Fall 2010"
+          "date": "Fall 2010",
+          "text": "Observational Astronomy",
+          "fields": [
+            {
+              "text": "Teaching assistant"
+            }
+          ]
         },
         {
-          "name": "Newtonian Physics",
-          "charge": "Teaching assistant",
-          "semester": "Fall 2010-2009-2008"
+          "date": "Fall 2010 - 2009 - 2008",
+          "text": "Newtonian Physics",
+          "fields": [
+            {
+              "text": "Teaching assistant"
+            }
+          ]
         },
         {
-          "name": "Astronomy summer school for high school students",
-          "charge": "Teaching assistant",
-          "semester": "Spring 2009"
+          "date": "Spring 2009",
+          "text": "Astronomy summer school for high school students",
+          "fields": [
+            {
+              "text": "Teaching assistant"
+            }
+          ]
         },
         {
-          "name": "Thermodynamics",
-          "charge": "Teaching assistant",
-          "semester": "Spring 2008"
+          "date": "Spring 2008",
+          "text": "Thermodynamics",
+          "fields": [
+            {
+              "text": "Teaching assistant"
+            }
+          ]
         }
       ]
     }
