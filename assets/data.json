@@ -30,6 +30,7 @@
       "papers": [
         {
           "title": "Orbital and mass constraints of the young binary system IRAS 16293-2422 A",
+          "link": "https://arxiv.org/abs/2005.11954",
           "authors": ["Maureira, Maria Jose  et al.", "[ Accepted for publication in ApJ ]"],
           "abstract": "We present 3 mm ALMA continuum and line observations at resolutions of 6.5 au and 13 au respectively, toward the Class 0 system IRAS 16293-2422 A. The continuum observations reveal two compact sources towards IRAS 16293-2422 A, coinciding with compact ionized gas emission previously observed at radio wavelengths (A1 and A2), confirming the long-known radio sources as protostellar. Several lines of the J=5-4 rotational transition of HNCO, NH2CHO and t-HCOOH are detected, with which we derived individual line-of-sight velocities. Using these together with the CS (J=2-1), we fit Keplerian profiles towards the individual compact sources and derive masses of the central protostars. The kinematic analysis indicates that A1 and A2 are a bound binary system. Using this new context for the previous 30 years of VLA observations, we fit orbital parameters to the relative motion between A1 and A2 and find the combined protostellar mass derived from the orbit is consistent with the masses derived from the gas kinematics. Both estimations indicate masses consistently higher (0.5<M1<M2<2 Msun) than previous estimations using lower resolution observations of the gas kinematics.",
           "images": [
