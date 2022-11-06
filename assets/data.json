@@ -2,7 +2,7 @@
   "color": "#712819",
   "google_analytics_ID": "UA-54037920-3",
   "name": "María José Maureira",
-  "sub_title": "Postdoctorade at Max Planck Institute for Extraterrestrial Physics",
+  "sub_title": "Postdoc at Max Planck Institute for Extraterrestrial Physics",
   "cv_link": "assets/cv_maureira_2017.pdf",
   "header_background": "assets/images/guisard-alma.jpg",
   "header_background_mobile": "assets/images/guisard-alma_mobile.jpg",
@@ -12,36 +12,69 @@
     "teaching"
   ],
   "home": {
-    "description": "I am an astronomy postdoctorade at Max Planck Institute for Extraterrestrial Physics. My work focuses on the early stages of low-mass star formation. I use data from millimeter interferometers to characterize the gas in collapsing cores that are forming or have recently formed a protostar.",
+    "description": "I am an Astronomy Postdoc at Max Planck Institute for Extraterrestrial Physics. My work focuses on the early stages of low-mass star and disk formation. I use data from millimeter interferometers to analyze the dust and gas from core (~0.1 pc) down to disk scales (~ 10-100 au) to understand how protostars assemble and the role of young disks in the mass accretion and planet formation processes.",
     "contact": [
       {"text": "Max Planck Institute for Extraterrestrial Physics"},
       {"text": "Gießenbachstraße 1"},
       {"text": "85748 Garching bei München, Germany"},
       {"text": "maureira@mpe.mpg.de", "type": "email"}
     ],
-      "fields": [
-      "Star Formation",
-      "Radio Astronomy"
+    "fields": [
+      "Star and planet formation",
+      "Protostellar envelopes, disks and outflows",
+      "Embedded multiple systems",
+      "Gas kinematics and dust properties",
+      "Single dish and interferometric submm to cm observations"
     ]
   },
   "research": [
     {
-      "title": "Publications",
+      "papers": [
+        {
+          "title": "Refereed and accepted publications",
+          "link": "https://ui.adsabs.harvard.edu/public-libraries/pjF8Q9eMRuapv0J9-gI2Gw"
+        },
+        {
+          "title": "Publications by guided students",
+          "link": "https://ui.adsabs.harvard.edu/public-libraries/9JOlTLSPRBudOJX-4MaaEQ"
+        }
+      ]
+    },
+    {
+      "title": "Selected Publications",
       "papers": [
         {
           "title": "Orbital and mass constraints of the young binary system IRAS 16293-2422 A",
-          "link": "https://arxiv.org/abs/2005.11954",
+          "link": "https://ui.adsabs.harvard.edu/abs/2020ApJ...897...59M/abstract",
           "authors": ["Maureira, Maria Jose  et al.", "[ Accepted for publication in ApJ ]"],
           "abstract": "We present 3 mm ALMA continuum and line observations at resolutions of 6.5 au and 13 au respectively, toward the Class 0 system IRAS 16293-2422 A. The continuum observations reveal two compact sources towards IRAS 16293-2422 A, coinciding with compact ionized gas emission previously observed at radio wavelengths (A1 and A2), confirming the long-known radio sources as protostellar. Several lines of the J=5-4 rotational transition of HNCO, NH2CHO and t-HCOOH are detected, with which we derived individual line-of-sight velocities. Using these together with the CS (J=2-1), we fit Keplerian profiles towards the individual compact sources and derive masses of the central protostars. The kinematic analysis indicates that A1 and A2 are a bound binary system. Using this new context for the previous 30 years of VLA observations, we fit orbital parameters to the relative motion between A1 and A2 and find the combined protostellar mass derived from the orbit is consistent with the masses derived from the gas kinematics. Both estimations indicate masses consistently higher (0.5<M1<M2<2 Msun) than previous estimations using lower resolution observations of the gas kinematics.",
           "images": [
             "assets/images/fig3-1.jpg",
             "assets/images/fig3-2.jpg",
             "assets/images/fig3-3.jpg"
+          ],
+          "more_info": [
+            {
+              "text": "Related Work:",
+              "links": [
+                {
+                  "text": "Press release",
+                  "link": "https://www.mpe.mpg.de/7456250/news20200609"
+                }
+              ]
+            }
           ]
         },
         {
           "title": "ALMA observations of envelopes around First Hydrostatic Core Candidates",
-          "authors": ["Maureira, Maria Jose  et al.", "[ Submitted ]"]
+          "link": "https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.4394M/abstract",
+          "authors": ["Maureira, Maria Jose  et al."],
+          "abstract": "We present ALMA 3 mm molecular line and continuum observations with a resolution of ∼3.5 arcsec towards five first hydrostatic core (FHSC) candidates (L1451-mm, Per-bolo 58, Per-bolo 45, L1448-IRS2E, and Cha-MMS1). Our goal is to characterize their envelopes and identify the most promising sources that could be bona fide FHSCs. We identify two candidates that are consistent with an extremely young evolutionary state (L1451-mm and Cha-MMS1), with L1451-mm being the most promising FHSC candidate. Although our envelope observations cannot rule out Cha-MMS1 as an FHSC yet, the properties of its CO outflow and SED published in recent studies are in better agreement with the predictions for a young protostar. For the remaining three sources, our observations favour a pre-stellar nature for Per-bolo 45 and rule out the rest as FHSC candidates. Per-bolo 58 is fully consistent with being a Class 0, while L1448 IRS2E shows no emission of high-density tracers (NH2D and N2H+) at the location of the previously identified compact continuum source, which is also undetected in our observations. Thus, we argue that there is no embedded source at the presumptive location of the FHSC candidate L1448 IRS2E. We propose instead that what was thought to be emission from the presumed L1448 IRS2E outflow corresponds to outflow emission from a nearby Class 0 system, deflected by the dense ambient material. We compare the properties of the FHSC candidates studied in this work and the literature, which shows that L1451-mm appears as possibly the youngest source with a confirmed outflow.",
+          "images": [
+            "assets/images/fig4-1.png",
+            "assets/images/fig4-2.png",
+            "assets/images/fig4-3.png"
+          ]
         },
         {
           "title": "A turbulent origin for the complex envelope kinematics in the young low-mass core Per-Bolo 58",
